@@ -1,0 +1,10 @@
+.header {
+  background-color: aqua;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+button {
+  padding: 0.5rem 0.8rem;
+}
